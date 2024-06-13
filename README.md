@@ -2,6 +2,8 @@
 
 This is a solution to the [Social links profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
+![Design preview for the Social links profile coding challenge](./design/desktop-preview.jpg)
+
 ## Table of contents
 
 - [Overview](#overview)
@@ -28,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/)
-- Live Site URL: [GitHub Pages](https://zmoerema.github.io/frontend-mentor-social-links-profile/)
+- Live Site URL: [GitHub Pages](https://zmoerema.github.io/frontend-mentor-social-links-profile-2.0/)
 
 ## My process
 
